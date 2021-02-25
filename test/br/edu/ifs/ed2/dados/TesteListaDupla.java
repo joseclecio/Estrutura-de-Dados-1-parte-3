@@ -1,13 +1,10 @@
-/**
- *
- */
 package br.edu.ifs.ed2.dados;
-
-import static org.junit.Assert.assertNull;
-import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
+
+import static org.junit.Assert.assertNull;
+import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author Marlos Tacio Silva
